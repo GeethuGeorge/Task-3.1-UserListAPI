@@ -1,0 +1,22 @@
+
+.userlist{
+  margin-left: 467px;
+}
+.list {
+    margin-left: 100px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.list-item {
+    display: flex;
+    align-items: center; /* Vertically center items */
+    justify-content: space-between; /* Space items horizontally */
+    margin-bottom: 10px;
+}
+
+.list-item button {
+    margin-left: 10px; /* Add spacing between the text and button */
+    background-color: bisque;
+}
